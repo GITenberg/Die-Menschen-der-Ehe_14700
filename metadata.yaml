@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5639
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Mackay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14700#Die-Menschen-der-Ehe
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-01-15'
 gutenberg_type: Text
