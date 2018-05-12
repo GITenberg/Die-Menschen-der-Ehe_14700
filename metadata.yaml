@@ -1,0 +1,29 @@
+_repo: Die-Menschen-der-Ehe_14700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackay, John Henry
+    birthdate: 1864
+    deathdate: 1933
+    gutenberg_agent_id: '5639'
+    url: http://www.gutenberg.org/2009/agents/5639
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Mackay
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14700'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Love stories'
+title: Die Menschen der Ehe
+url: http://www.gutenberg.org/ebooks/14700
